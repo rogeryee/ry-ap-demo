@@ -1,0 +1,6 @@
+# Ns
+nsHome=${user.home}/.ti_config/ry-ap-demo-srv/ns
+
+# Lnk
+ti-lnk-srv-lookup-file=${user.home}/.ti_config/lookup/ti-lnk-srv-lookup2
+ry-ap-demo.rpc-server.default.concurrent=5

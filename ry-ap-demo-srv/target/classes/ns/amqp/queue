@@ -1,0 +1,5 @@
+host=127.0.0.1
+virtualHost=/ti_lnk
+username=rogeryee
+password=rogeryee
+channel-cache-size=10
